@@ -1,0 +1,5 @@
+Kills the LinkedIn news feed allowing you to not get distracted. That's it. You can still check your messages and notifications, post status updates, and do everything you could do before. You just won't get distracting news feed posts anymore.
+
+No more wasting time on LinkedIn. No more getting distracted when you log on to send a message. It's that simple.
+
+**This is heavily inspired by the all mighty Neal Wu and his KillNewsFeed he originally made for Facebook.
